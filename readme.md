@@ -1,4 +1,4 @@
-<install free version>   
+install free version
 python - 3.9   
 pip install gym   
 pip install free-mujoco-py   
@@ -9,10 +9,10 @@ python -c "import mujoco_py"
   
   
   
-<GLEW Error>   
+GLEW Error   
 export LD_PRELOAD=/usr/lib/x86_64-linux-gnu/libGL.so:/usr/lib/x86_64-linux-gnu/libGLEW.so   
 
-<gym rom Error>   
+gym rom Error  
 ! wget http://www.atarimania.com/roms/Roms.rar   
 ! mkdir /content/ROM/   
 ! unrar e /content/Roms.rar /content/ROM/   
