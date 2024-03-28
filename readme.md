@@ -6,7 +6,9 @@ sudo apt install libosmesa6-dev
 sudo apt install patchelf   
    
 python -c "import mujoco_py"   
-  
+
+## Else Error
+conda install -c conda-forge gcc=12.1.0
   
   
 ## GLEW Error   
